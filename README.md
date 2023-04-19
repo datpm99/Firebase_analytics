@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 <div style="display: flex;">
 <img src="https://firebasestorage.googleapis.com/v0/b/demofirebase-5d7b7.appspot.com/o/78.png?alt=media&token=9fe34e5e-2a94-4acc-b751-9f67185b16f3"/>
 
-<div>
+<div style="width: 500px;">
 - ```const```: Includes app configu .<br>
 - ```lang```: Includes file languages.<br>
 - ```models```: Includes model common.<br>
