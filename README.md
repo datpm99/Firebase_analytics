@@ -20,15 +20,15 @@ samples, guidance on mobile development, and a full API reference.
 <img src="https://firebasestorage.googleapis.com/v0/b/demofirebase-5d7b7.appspot.com/o/78.png?alt=media&token=9fe34e5e-2a94-4acc-b751-9f67185b16f3"/>
 
 <div>
-- ```const```: Includes app configuration such as Theme, Role,... .<br>
+- ```const```: Includes app configu .<br>
 - ```lang```: Includes file languages.<br>
 - ```models```: Includes model common.<br>
-- ```pages```: Includes screen common such as Login, changePassword,... .<br>
+- ```pages```: Includes screen common s,... .<br>
 - ```routes```: Routes management.<br>
-- ```services```: Includes services such as API, Firebase, Storage.<br>
-- ```utils```: Includes utilities such as Validation, Formatter,... .<br>
+- ```services```: Includes services sue.<br>
+- ```utils```: Includes utilities such ar,... .<br>
 - ```widgets```: Includes widgets common.<br>
-- ```module```: eBooking_car, eCalendar, eContract, eDocument, eSignature, eTask, eTicket.<br>
+- ```module```: eBooking_car, eCalendargn.<br>
 - ```main.dart```: File start application.<br>
 </div>
 </p>
