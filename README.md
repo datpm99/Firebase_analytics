@@ -19,15 +19,14 @@ samples, guidance on mobile development, and a full API reference.
 <p align="left" width="100%">
 <img src="https://firebasestorage.googleapis.com/v0/b/demofirebase-5d7b7.appspot.com/o/78.png?alt=media&token=9fe34e5e-2a94-4acc-b751-9f67185b16f3"/>
 
-<div> 
-- ```const```: Includes app configuration such as Theme, Role,... .
-- ```lang```: Includes file languages.
-- ```models```: Includes model common.
-- ```pages```: Includes screen common such as Login, changePassword,... .
-- ```routes```: Routes management.
-- ```services```: Includes services such as API, Firebase, Storage.
-- ```utils```: Includes utilities such as Validation, Formatter,... .
-- ```widgets```: Includes widgets common.
-- ```module```: eBooking_car, eCalendar, eContract, eDocument, eSignature, eTask, eTicket.
-</div>
+- ```const```: Includes app configuration such as Theme, Role,... .<br>
+- ```lang```: Includes file languages.<br>
+- ```models```: Includes model common.<br>
+- ```pages```: Includes screen common such as Login, changePassword,... .<br>
+- ```routes```: Routes management.<br>
+- ```services```: Includes services such as API, Firebase, Storage.<br>
+- ```utils```: Includes utilities such as Validation, Formatter,... .<br>
+- ```widgets```: Includes widgets common.<br>
+- ```module```: eBooking_car, eCalendar, eContract, eDocument, eSignature, eTask, eTicket.<br>
+- ```main.dart```: File start application.<br>
 </p>
