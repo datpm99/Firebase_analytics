@@ -18,7 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 ## Project Structure
 <img src="https://firebasestorage.googleapis.com/v0/b/demofirebase-5d7b7.appspot.com/o/78.png?alt=media&token=9fe34e5e-2a94-4acc-b751-9f67185b16f3"/>
 
-<pre>
+```dart
 - ```const```: Includes app configu .
 - ```lang```: Includes file languages.
 - ```models```: Includes model common.
@@ -29,4 +29,4 @@ samples, guidance on mobile development, and a full API reference.
 - ```widgets```: Includes widgets common.
 - ```module```: eBooking_car, eCalendargn.
 - ```main.dart```: File start application.
-</pre>
+```
