@@ -19,6 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 <p align="left" width="100%">
 <img src="https://firebasestorage.googleapis.com/v0/b/demofirebase-5d7b7.appspot.com/o/78.png?alt=media&token=9fe34e5e-2a94-4acc-b751-9f67185b16f3"/>
 
+<div>
 - ```const```: Includes app configuration such as Theme, Role,... .
 - ```lang```: Includes file languages.<br>
 - ```models```: Includes model common.<br>
@@ -29,4 +30,5 @@ samples, guidance on mobile development, and a full API reference.
 - ```widgets```: Includes widgets common.<br>
 - ```module```: eBooking_car, eCalendar, eContract, eDocument, eSignature, eTask, eTicket.<br>
 - ```main.dart```: File start application.<br>
+</div>
 </p>
